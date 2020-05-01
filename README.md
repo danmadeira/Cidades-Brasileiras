@@ -23,6 +23,6 @@ Todas as 5570 cidades brasileiras, a partir das respectivas coordenadas geográf
 
 - Bumgardner, J. Making annoying rainbows in javascript. Krazydad. October 13, 2006. Disponível em: <https://krazydad.com/tutorials/makecolors.php>
 
-- IBGE Conheça Cidades e Estados do Brasil. Disponível em :<https://cidades.ibge.gov.br/>
+- IBGE Conheça Cidades e Estados do Brasil. Disponível em: <https://cidades.ibge.gov.br/>
 
 - Webster, B. GPS Coordinates to Pixels. Stack Overflow. May 30, 2011. Disponível em: <https://stackoverflow.com/questions/6172355/how-to-convert-lat-long-to-an-xy-coordinate-system-e-g-utm-and-then-map-this/6172384#6172384>
